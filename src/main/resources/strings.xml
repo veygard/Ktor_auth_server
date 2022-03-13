@@ -1,0 +1,918 @@
+<resources>
+    <string name="app_name">Nomad App</string>
+    <string name="nomad_login_button_text">Войти</string>
+    <string name="nomad_forgot_password_button_text">Забыли пароль?</string>
+    <string name="nomad_sign_up_button_text">Зарегистрироваться</string>
+    <string name="nomad_contentDescription_icon_show_password">Показать пароль</string>
+    <string name="nomad_contentDescription_icon_telegram">Telegram</string>
+    <string name="nomad_contentDescription_icon_whatsapp">Whatsapp</string>
+    <string name="nomad_contentDescription_icon_arrow_down">Стрелка вниз</string>
+    <string name="nomad_contentDescription_icon_calendar">Календарь</string>
+    <string name="nomad_contentDescription_icon_phone">Телефонная трубка</string>
+    <string name="nomad_contentDescription_photo">Фото</string>
+    <string name="nomad_contentDescription_change_photo">Сменить фото</string>
+    <string name="nomad_contentDescription_document">Документ</string>
+    <string name="nomad_contentDescription_next_button">Перейти</string>
+    <string name="nomad_contentDescription_back_button">Назад</string>
+    <string name="nomad_contentDescription_share_button">Поделиться</string>
+    <string name="nomad_contentDescription_close_button">Закрыть</string>
+    <string name="nomad_contentDescription_revert_button">Вернуться</string>
+    <string name="nomad_contentDescription_filter">Фильтр</string>
+    <string name="nomad_contentDescription_edit_button">Правка</string>
+    <string name="nomad_contentDescription_heart">Сердечко</string>
+    <string name="nomad_contentDescription_gear_button">Шестерёнка</string>
+    <string name="nomad_contentDescription_apply_button">Применить</string>
+    <string name="nomad_contentDescription_delete_value_button">Удалить значение</string>
+    <string name="nomad_contentDescription_remove_filter">Убрать фильтр</string>
+    <string name="nomad_contentDescription_dropdown_button">Раскрыть список</string>
+    <string name="nomad_contentDescription_license_plate">Гос номер</string>
+    <string name="nomad_contentDescription_check">Проверка пройдена</string>
+    <string name="nomad_contentDescription_info">Информация</string>
+    <string name="nomad_contentDescription_contact_us">Связаться с нами</string>
+    <string name="nomad_contentDescription_driver_icon">Иконка человека</string>
+    <string name="nomad_contentDescription_close">Закрыть</string>
+    <string name="nomad_contentDescription_auto_registration_info">Карточка регистрации</string>
+    <string name="nomad_contentDescription_auto_specification_info">Характеристики</string>
+    <string name="nomad_contentDescription_auto_history_info">История авто</string>
+    <string name="nomad_contentDescription_plus_icon">Добавить</string>
+    <string name="nomad_contentDescription_plus_icon_ver2">Вопросы и Ответы</string>
+    <string name="nomad_contentDescription_basket">Корзина</string>
+    <string name="nomad_contentDescription_present_box">Коробка с подарками</string>
+    <string name="nomad_contentDescription_settings_icon">Настройка</string>
+    <string name="nomad_contentDescription_swipe_left_arrow">Свайп влево</string>
+    <string name="nomad_contentDescription_main_page_bottom_menu_main">Главная</string>
+    <string name="nomad_contentDescription_history_page_bottom_menu_service">О сервисе</string>
+    <string name="nomad_contentDescription_insurance_bottom_menu_service">Мои страховки</string>
+    <string name="nomad_contentDescription_history_exit">Выйти</string>
+    <string name="nomad_contentDescription_main_page_bottom_menu_chat">Чат</string>
+    <string name="nomad_contentDescription_main_page_bottom_menu_profile">Профиль</string>
+    <string name="nomad_contentDescription_main_page_bottom_menu_garage">Данные авто</string>
+    <string name="nomad_contentDescription_garage_main_icon">Главный</string>
+    <string name="nomad_contentDescription_password_page_check_mark">Требование к паролю</string>
+    <string name="nomad_contentDescription_question_mark">Знак вопроса</string>
+    <string name="nomad_contentDescription_auto_model_image">Значёк марки автомобиля</string>
+    <string name="nomad_contentDescription_bank_icon_image">Икнонка банка</string>
+    <string name="nomad_contentDescription_success_pay">Успешно оплачено</string>
+    <string name="nomad_contentDescription_happy">Смайл</string>
+    <string name="nomad_contentDescription_error_pay">Оплата не прошла</string>
+    <string name="nomad_contentDescription_wink_smile">Подмигивающий смайлик</string>
+    <string name="nomad_contentDescription_anguish_smile">Грустный смайлик</string>
+    <string name="nomad_contentDescription_fine">Есть штрафы</string>
+    <string name="nomad_contentDescription_no_fine">Все чисто</string>
+    <string name="nomad_contentDescription_good">Всё в порядке</string>
+    <string name="nomad_contentDescription_bank_card">Банковская карточка</string>
+    <string name="nomad_contentDescription_ticket">Билетик</string>
+    <string name="nomad_contentDescription_page_doc">Документ</string>
+    <string name="nomad_contentDescription_address">Адрес</string>
+    <string name="nomad_contentDescription_headphones">Наушники</string>
+    <string name="nomad_contentDescription_star_icon">Звездочка</string>
+    <string name="nomad_contentDescription_thumbs_down">Палец вниз</string>
+
+    <string name="nomad_crop_image_error_text">Что-то пошло не так. Выберите другое фото</string>
+    <string name="nomad_something_wrong_text">Что-то пошло не так. Попробуйте позже или обратитесь в техническую поддержку</string>
+
+
+
+
+    <string name="common_no_internet_connection">Отсутствует соединение с интернетом</string>
+    <string name="search_title">Поиск</string>
+
+    <string name="nomad_entrance_TopBar_title">Войти</string>
+    <string name="nomad_home_screen_title">Главная</string>
+    <string name="nomad_home_tech_check_up_bottom_sheet_title">Срок техосмотра</string>
+    <string name="nomad_home_scree_bottom_sheet_insurance_title">Срок страховки</string>
+    <string name="nomad_home_tech_check_up_bottom_sheet_button_new">Новая проверка техосмотра</string>
+    <string name="nomad_home_tech_check_up_bottom_sheet_no_auto_title">У Вас не добавлено автомобилей в "Профиле"</string>
+    <string name="nomad_home_tech_check_up_bottom_sheet_no_auto_text">Добавьте авто в разделе "Профиль", чтобы не заполнять сервисы каждый раз.</string>
+
+    <string name="nomad_home_tech_check_up_bottom_sheet_enter_auto_title">Проверить техосмотр</string>
+    <string name="nomad_home_tech_check_up_bottom_sheet_enter_auto_next">Далее</string>
+    <string name="nomad_sign_up_phone_form_TopBar_title">Зарегистрироваться</string>
+    <string name="nomad_next_screen_profile_list_button">Вход</string>
+    <string name="nomad_add_profile_text">Добавить аккаунт</string>
+    <string name="nomad_restore_pass_phone_form_TopBar_title">Восстановить пароль</string>
+    <string name="nomad_phone_num_text">Введите ваш номер</string>
+    <string name="nomad_countdown_send_sms_again_text">Отправить повторно через </string>
+    <string name="nomad_send_sms_again_text">Отправить SMS повторно</string>
+    <string name="nomad_write_password_text">Введите пароль</string>
+    <string name="nomad_write_again_password_text">Повторите пароль</string>
+    <string name="nomad_first_time_here_text">Впервые у нас ?</string>
+    <string name="nomad_next_screen_button_text">Далее</string>
+    <string name="nomad_save_button_text">Сохранить</string>
+    <string name="nomad_dialog_dismiss_button">Отмена</string>
+    <string name="nomad_dialog_confirm_button">Окей</string>
+
+    <string name="nomad_error_field_validation_text">Введено неправильное значение</string>
+    <string name="nomad_error_field_validation_text2">Введите номер полностью</string>
+    <string name="nomad_error_field_validation_text3">Мы не смогли найти ваш ИИН, проверьте на корректность.</string>
+    <string name="nomad_error_profile_not_found">Профиль не обнаружен. Залогиньтесь</string>
+
+    <string name="nomad_phone_enter_screen_change_password_error_title">Номер не зарегистрирован</string>
+    <string name="nomad_phone_enter_screen_change_password_error_text">Данный номер не найден в базе. Для восстановления пароля укажите корректный номер телефона</string>
+    <string name="nomad_phone_enter_screen_registration_error_title">Номер уже зарегистрирован</string>
+    <string name="nomad_phone_enter_screen_registration_error_text">Данный номер уже зарегистрирован. Для регистрации укажите номер, который еще не был зарегистрирован</string>
+
+    /*Авторизация*/
+    <string name="nomad_enter_sms_title_text">На номер %1$s отправлен SMS c кодом подтверждения</string>
+    <string name="nomad_password_requirements_text_1">Только латиницы</string>
+    <string name="nomad_password_requirements_text_2">Более 8 символов</string>
+    <string name="nomad_password_requirements_text_3">Заглавные и прописные буквы</string>
+    <string name="nomad_password_requirements_text_4">Цифры</string>
+    <string name="nomad_enter_sms_page_top_bar_title">Введите код из SMS</string>
+    <string name="nomad_password_not_match_error_text">Пароли не совпадают</string>
+    <string name="nomad_authorization_error_dialog_title_text">Ошибка авторизации</string>
+    <string name="nomad_authorization_error_dialog_text">Вы ввели неправильный телефон или пароль. Попробуйте еще раз или воспользуйтесь восстановлением пароля</string>
+    <string name="nomad_authorization_sms_error_dialog_title_text">Ошибка авторизации по СМС</string>
+    <string name="nomad_authorization_sms_error_dialog_text">Вы ввели неправильный Код-СМС. Введите правильный код или сделайте новый запрос на отправку смс</string>
+
+    <string name="nomad_security_measures_title">Используйте следующие меры для безопасности аккаунта:</string>
+
+
+    /*Гараж*/
+    <string name="nomad_garage_page_main_top_bar_title">Автомобиль</string>
+    <string name="nomad_garage_vin_field_text">VIN код:</string>
+    <string name="nomad_garage_change_auto_name_title">Название машины</string>
+    <string name="nomad_garage_change_auto_name_info_text">Задайте имя этому авто, для удобного пользования</string>
+    <string name="nomad_garage_change_auto_name_placeholder">Введите</string>
+    <string name="nomad_garage_change_auto_name_button_title_new">Добавить</string>
+    <string name="nomad_garage_change_auto_name_button_title_change">Изменить</string>
+    <string name="nomad_garage_registration_field_add_button">Добавить СРТС</string>
+    <string name="nomad_garage_registration_field_add_info">Свидетельство о регистрации\nтранспортного средства</string>
+    <string name="nomad_garage_registration_field_edit_field_title">СРТС</string>
+    <string name="nomad_garage_specification_field_text1">Характеристики</string>
+    <string name="nomad_garage_specification_field_text2">Посмотрите характиристики вашего авто</string>
+    <string name="nomad_garage_service_book_field_text1">Сервисная книжка</string>
+    <string name="nomad_garage_service_book_field_text2">Откройте онлайн сервисную книжку, и вы никогда не потеряете.</string>
+    <string name="nomad_garage_auto_history_field_title">История авто</string>
+    <string name="nomad_garage_auto_history_field_second_part">Посмотрите историю ДТП и перерегистрации автомобиля</string>
+    <string name="nomad_garage_auto_tech_checkup_title">Проверить техосмотр</string>
+    <string name="nomad_garage_auto_tech_checkup_title2">Тех осмотр</string>
+    <string name="nomad_garage_auto_tech_checkup_second_part">Сохраняя СРТС в профиле, Вы сможете мгновенно проверить срок действия Техосмотра</string>
+    <string name="nomad_garage_auto_tech_checkup_expired">TO не действителен</string>
+    <string name="nomad_garage_auto_tech_checkup_valid">ТО действителен до %1$s</string>
+    <string name="nomad_garage_insurance_policies_title">Страховые полисы</string>
+    <string name="nomad_garage_insurance_expired_date">Действительная до %1$s</string>
+    <string name="nomad_garage_insurance_expired">Страховой полис не действителен</string>
+    <string name="nomad_garage_insurance_add_title">Добавить страховку</string>
+    <string name="nomad_garage_insurance_add_button">Добавить</string>
+    <string name="nomad_garage_insurance_add_inn_edit_title">ИИН или БИН</string>
+    <string name="nomad_garage_add_insurance">Добавить страховой полис</string>
+    <string name="nomad_garage_drivers_title">Связанные водители</string>
+    <string name="nomad_garage_drivers_add_title">Добавить водителя</string>
+    <string name="nomad_garage_drivers_add_new_title">Добавить нового водителя</string>
+    <string name="nomad_garage_settings_section_title">Опции</string>
+    <string name="nomad_garage_settings_main_auto_title">Основной автомобиль</string>
+    <string name="nomad_garage_settings_delete_auto_title">Удалить авто</string>
+    <string name="nomad_garage_settings_detach_driver_dialog_title">Открепить водителя </string>
+    <string name="nomad_garage_settings_detach_driver_dialog_text">Вы точно ходите открепить этого водителя от автомобиля?</string>
+    <string name="nomad_garage_settings_delete_auto_dialog_title">Удаление АВТО</string>
+    <string name="nomad_garage_settings_delete_auto_dialog_text">Вы точно ходите удалить этот автомобиль?</string>
+    /*Гараж Характеристики*/
+    <string name="nomad_garage_specification_page_title">Характеристики</string>
+    <string name="nomad_garage_specification_page_dataNotMatchField_text">Данные не совпадают?</string>
+    <string name="nomad_garage_specification_page_dataNotMatchField_text2">Отредактируйте, и мы подарим 50% скидки на Техосмотр</string>
+    <string name="nomad_garage_specification_page_error_dialog_title_text">При переходе без сохранения все ввденные данные буду утеряны.\nВы точно хотите вернуться?</string>
+    <string name="nomad_garage_specification_page_error_dialog_title_title">Данные не сохранены</string>
+    <string name="nomad_garage_specification_page_change_phone_dialog_title">Смена номера</string>
+    <string name="nomad_garage_specification_page_change_phone_dialog_text">Вы действительно хотите сменить номер телефона у данного профиля?</string>
+    /*Гараж Сервисная книжка*/
+    <string name="nomad_garage_service_book_page_title">Сервисная книжка</string>
+    <string name="nomad_garage_service_book_items_text1">Следующая замена масла</string>
+    <string name="nomad_garage_service_book_items_text2">Дата замены</string>
+    <string name="nomad_garage_service_book_items_text3">Пробег</string>
+    <string name="nomad_garage_service_book_items_text3_error">Пробег должен быть больше прошлого значения: %1$sкм </string>
+    <string name="nomad_garage_service_book_items_text4">Масло в двигателе</string>
+    <string name="nomad_garage_service_book_items_text5">Партнеры</string>
+    <string name="nomad_garage_service_book_items_text6">Дата замены масла</string>
+    <string name="nomad_garage_service_book_items_text7">Введите пробег</string>
+    <string name="nomad_garage_service_book_items_text8">Введите марку масла</string>
+    <string name="nomad_garage_service_book_items_text9">Место замены</string>
+    <string name="nomad_garage_service_book_items_text10">Название партнера</string>
+    <string name="nomad_garage_service_book_add_button">Добавить запись</string>
+    <string name="nomad_garage_service_book_show_partners_button">Посмотреть партнеров</string>
+    <string name="nomad_garage_service_book_add_rec_title">Добавить запись</string>
+    <string name="nomad_garage_service_book_confirm_button">Добавить</string>
+    <string name="nomad_garage_service_book_error_dialog_title">Ошибка заполнения полей</string>
+    <string name="nomad_garage_service_book_error_dialog_text">Проверьте что все поля заполнены</string>
+    <string name="nomad_garage_service_book_calendar_text1">Выберите дату</string>
+    <string name="nomad_garage_service_book_calendar_text2">Отмена</string>
+    <string name="nomad_garage_service_book_calendar_text3">Ок</string>
+    /*Гараж, тех осмотр*/
+    <string name="nomad_garage_check_up_screen_top_bar">Техосмотр</string>
+    <string name="nomad_garage_check_up_screen_valid_title">Действительна до %1$s</string>
+    <string name="nomad_garage_check_up_screen_valid_text1">По данному Гос номеру техосмотр найден:</string>
+    <string name="nomad_garage_check_up_screen_valid_text2">Авто по данному Гос номеру не нуждается в техосмотре. Машины с возрастом до 7 лет не нуждаются в прохождении Тех Осмотра </string>
+    <string name="nomad_garage_check_up_screen_invalid_title">Не действительна</string>
+    <string name="nomad_garage_check_up_screen_invalid_text">По данному Гос номеру техосмотр не действителен. Штраф за управление автомобилем без техосмотра составляет</string>
+    <string name="nomad_garage_check_up_screen_invalid_title_not_found">Ваш техосмотр не найден</string>
+    <string name="nomad_garage_check_up_screen_invalid_title_not_found_text">Мы не смогли найти ваши данные. Штраф за управление автомобилем без техосмотра составляет</string>
+    <string name="nomad_garage_check_up_screen_invalid_finePriceText">5 МРП или 14 585 тенге</string>
+    <string name="nomad_garage_check_up_screen_invalid_button_text">Пройти техосмотр</string>
+    <string name="nomad_garage_check_up_screen_source">Источник:</string>
+    <string name="nomad_garage_check_up_screen_up_date_relevance">Данные актуальны:</string>
+
+
+
+    /*История авто*/
+    <string name="nomad_auto_history_main_page_title">История авто</string>
+    <string name="nomad_auto_history_main_page_switch_buttons1">Мои автомобили</string>
+    <string name="nomad_auto_history_main_page_switch_buttons2">История</string>
+    <string name="nomad_auto_history_main_page_add_buttons">Проверить авто</string>
+    <string name="nomad_auto_history_main_page_traffic_accident_text_false">Нет данных о ДТП</string>
+    <string name="nomad_auto_history_main_page_traffic_accident_text_true">Есть данные о ДТП</string>
+    <string name="nomad_auto_history_main_page_changed_owner_text_true">Есть история перерегистрации</string>
+    <string name="nomad_auto_history_main_page_changed_owner_text_false">Нет данных о перерегистрации</string>
+    <string name="nomad_auto_history_main_page_report_text_true">Посмотреть отчет</string>
+    <string name="nomad_auto_history_main_page_report_text_false">Купить отчет</string>
+    <string name="nomad_auto_history_main_page_bottom_menu_save_button_title">Проверить</string>
+    <string name="nomad_auto_history_service_page_title">O сервисе</string>
+    <string name="nomad_auto_history_report_page_title">Отчет</string>
+    <string name="nomad_auto_history_report_info_text1">Расшифровка VIN, данные о ДТП, информация о регистрационных действиях транспортного средства</string>
+    <string name="nomad_auto_history_report_info_text2">Данные предоставляются только по легковым автомобилям, зарегистрированным в РК</string>
+    <string name="nomad_auto_history_report_info_text3">Данные о регистрациях с %1$s по %2$s</string>
+    <string name="nomad_auto_history_report_add_driver_title">Выберите водителя</string>
+    <string name="nomad_auto_history_report_auto_section_title">Автомобиль</string>
+    <string name="nomad_auto_history_report_auto_section_spec_button">Характеристики</string>
+    <string name="nomad_auto_history_report_main_spec_title">Основные</string>
+    <string name="nomad_auto_history_report_save_auto_text">Сохранить авто в гараж</string>
+    <string name="nomad_auto_history_report_buy_section_text_1">Вы можете купить данные по количествам и датам</string>
+    <string name="nomad_auto_history_report_buy_section_text_2_bold">ДТП</string>
+    <string name="nomad_auto_history_report_buy_section_text_3">авто;\nА так же данные о</string>
+    <string name="nomad_auto_history_report_buy_section_text_4_bold">перерегистрации</string>
+    <string name="nomad_auto_history_report_buy_section_text_5"> авто.\n</string>
+    <string name="nomad_auto_history_report_buy_section_text_6_green">%1$s</string>
+    <string name="nomad_auto_history_report_buy_section_text_7">вместо</string>
+    <string name="nomad_auto_history_report_buy_section_text_8_bold_crossed">%1$s</string>
+    <string name="nomad_auto_history_report_sample_button_text">Посмотреть пример отчета</string>
+    <string name="nomad_auto_history_report_sample_button_title">Пример отчёта:</string>
+    <string name="nomad_auto_history_report_buy_button_text">Купить отчет за %1$s</string>
+    <string name="nomad_auto_history_report_re_reg_title">История перерегистрации</string>
+    <string name="nomad_auto_history_report_re_reg_text1">№</string>
+    <string name="nomad_auto_history_report_re_reg_text2">Действие</string>
+    <string name="nomad_auto_history_report_re_reg_text3">Тип</string>
+    <string name="nomad_auto_history_report_re_reg_text4">Дата постановки</string>
+    <string name="nomad_auto_history_report_road_accident_title">История ДТП</string>
+    <string name="nomad_auto_history_report_road_accident_text1">Количество ДТП: %1$d</string>
+    <string name="nomad_auto_history_report_road_accident_text2">№</string>
+    <string name="nomad_auto_history_report_road_accident_text3">Дата</string>
+    <string name="nomad_auto_history_report_average_price_text">Средняя стоимость вашего %1$s %2$s, %3$sг - %4$s</string>
+    <string name="nomad_auto_history_service_info_field_text1">Расшифровка VIN, данные о ДТП, информация о регистрационных действиях транспортного средства</string>
+    <string name="nomad_auto_history_service_info_field_text2">Данные предоставляются только по легковым автомобилям, зарегистрированным в РК</string>
+    <string name="nomad_auto_history_service_info_field_text3">Данные о регистрациях с 20.06.2013 по %1$s</string>
+    <string name="nomad_auto_history_service_faq_button_title">Часто задаваемы вопросы</string>
+    <string name="nomad_auto_history_service_faq_title_text">Вопросы и ответы</string>
+    <string name="nomad_auto_history_main_screen_delete_auto_dialog_title">Удалить</string>
+    <string name="nomad_auto_history_main_screen_delete_auto_dialog_text">Вы дейтвительно хотите удалить это авто из списка?</string>
+    <string name="nomad_auto_history_main_screen_no_auto_profile_title">У Вас еще нет добавленных авто</string>
+    <string name="nomad_auto_history_main_screen_no_auto_profile_text">Вы можете добавить свои авто в разделе \"Профиль\" или нажмите кнопку \"Проверить авто\"</string>
+    <string name="nomad_auto_history_main_screen_no_auto_history_title">Вы еще не делали проверок авто</string>
+    <string name="nomad_auto_history_main_screen_no_auto_history_text">Нажмите \"Проверить авто\"</string>
+    <string name="nomad_service_faq_screen_title">Часто задаваемы вопросы</string>
+
+    /*Оплата*/
+    <string name="nomad_payments_card_list_screen_title">Выбрать карту</string>
+    <string name="nomad_payments_card_list_screen_add_card_title">Добавить карту</string>
+    <string name="nomad_payments_card_list_screen_choose_card_title">Выбрать</string>
+    <string name="nomad_payments_edit_card_list_screen_title">Редактировать</string>
+    <string name="nomad_payments_edit_card_list_screen_delete_button_title">Удалить</string>
+    <string name="nomad_payments_edit_card_list_screen_delete_card_dialog_title">Удалить карту оплаты</string>
+    <string name="nomad_payments_edit_card_list_screen_delete_card_dialog_text">Вы действительно хотите удалить отмеченные карточки?</string>
+    <string name="nomad_payments_add_card_screen_title">Добавить карту</string>
+    <string name="nomad_payments_add_card_screen_card_title">Номер карты</string>
+    <string name="nomad_payments_add_card_screen_exp_date_title">Срок</string>
+    <string name="nomad_payments_add_card_screen_cvc_title">CVC2 / CVV2</string>
+    <string name="nomad_payments_add_card_screen_next_button_text">Добавить</string>
+    <string name="nomad_payments_field_error_text">Ошибка</string>
+    <string name="nomad_payments_checkout_screen_title">Оплатить</string>
+    <string name="nomad_payments_checkout_screen_payment_info_text">Сумма к оплате:</string>
+    <string name="nomad_payments_checkout_screen_enter_cvc_text">Введите CVC2/CVV2:</string>
+    <string name="nomad_payments_checkout_screen_save_card_title">Сохранить карточку:</string>
+    <string name="nomad_payments_checkout_screen_error_text">Ошибка проведения платежа, попробуйте позже</string>
+    <string name="nomad_payments_payment_result_screen_success_pay">Успешно оплачено!</string>
+    <string name="nomad_payments_payment_result_screen_success_pay_text">Вы оплатили</string>
+    <string name="nomad_payments_payment_result_screen_error_pay">Оплата не прошла</string>
+    <string name="nomad_payments_payment_result_screen_error_pay_text">Код ошибки: %1$s</string>
+    <string name="nomad_payments_payment_result_screen_show_purchase">Показать квитанцию</string>
+    <string name="nomad_payments_payment_result_screen_close_button">Закрыть</string>
+    <string name="nomad_payments_bill_screen_text1">Продукт</string>
+    <string name="nomad_payments_bill_screen_text2">Назначение платежа</string>
+    <string name="nomad_payments_bill_screen_text3">Карта</string>
+    <string name="nomad_payments_bill_screen_text4">Сумма</string>
+    <string name="nomad_payments_bill_screen_text5">Имя держателя карты</string>
+    <string name="nomad_payments_bill_screen_text6">Статус</string>
+    <string name="nomad_payments_bill_screen_text7">ID плательщика</string>
+    <string name="nomad_payments_bill_screen_text8">Номер телефона</string>
+    <string name="nomad_payments_bill_screen_text9">Дата создания</string>
+    <string name="nomad_payments_bill_screen_text10">Дата подтверждения</string>
+    <string name="nomad_payments_bill_screen_text11">Страна эмитента карты</string>
+    <string name="nomad_payments_bill_screen_text12">Эмитент</string>
+    <string name="nomad_payments_bill_screen_share_button_text">Поделиться</string>
+
+    /*Добавить водителя*/
+    <string name="nomad_payments_add_driver_screen_title">Добавить водителя</string>
+    <string name="nomad_payments_add_driver_add_button">Добавить нового водителя</string>
+    <string name="nomad_payments_add_driver_save_button">Добавить</string>
+    <string name="nomad_payments_add_driver_have_fines">Есть неоплаченный штраф</string>
+    <string name="nomad_payments_add_driver_do_not_have_fines">Штрафоф нет</string>
+
+    /*Страховка*/
+    <string name="nomad_insurance_check_screen_title">Страховой полис</string>
+    <string name="nomad_insurance_check_screen_source">Источник:</string>
+    <string name="nomad_insurance_check_screen_date_relevance">Данные актуальны:</string>
+    <string name="nomad_insurance_check_screen_valid_title">Действительна до %1$s</string>
+    <string name="nomad_insurance_check_screen_valid_main_text">По данному ИИН и Гос номеру страховой полис найден:</string>
+    <string name="nomad_insurance_check_screen_in_valid_main_error">Страховой полис не найден</string>
+    <string name="nomad_insurance_check_screen_get_notification_button">Получить уведомление об окончании</string>
+    <string name="nomad_insurance_check_screen_buy_button">Купить страховой полис</string>
+    <string name="nomad_insurance_check_screen_invalid_title">Не действительна</string>
+    <string name="nomad_insurance_check_screen_invalid_text">По данному ИИН и Гос номеру страховой полис не действителен. Штраф за управление автомобилем без страховки составляет</string>
+    <string name="nomad_insurance_check_screen_null_insurance_title">Ваш страховой полис не найден</string>
+    <string name="nomad_insurance_check_screen_null_insurance_text">По данному ИИН и Гос номеру страховой полис не найден. Штраф за управление автомобилем без страховки составляет</string>
+    <string name="nomad_insurance_check_screen_invalid_finePriceText">10 МРП или 29 170 тенге</string>
+
+    /*Профиль*/
+    <string name="nomad_profile_main_screen_top_title">Профиль</string>
+    <string name="nomad_profile_bottom_login_title">Авторизуйтесь</string>
+    <string name="nomad_profile_bottom_login_text">Чтобы воспользоваться данным сервисом, вам нужно авторизоваться</string>
+    <string name="nomad_profile_bottom_login_button">Войти</string>
+    <string name="nomad_profile_main_screen_profile_infoField_text">Закончите регистрацию для персонализации приложения</string>
+    <string name="nomad_profile_main_screen_profile_add_auto_button">Добавить авто</string>
+    <string name="nomad_profile_main_screen_profile_add_auto_button_save_button">Добавить</string>
+    <string name="nomad_profile_main_screen_profile_add_driver_button">Добавить водителя</string>
+    <string name="nomad_profile_main_screen_profile_snack_bar_error_no_iin">Нет номера ИИН. Завершите регистрацию.</string>
+    <string name="nomad_profile_main_screen_no_auto_in_list1">У Вас еще нет автомобилей</string>
+    <string name="nomad_profile_main_screen_no_auto_in_list2">Добавьте сюда авто, чтобы не заполнять сервисы каждый раз. А так же, здесь вы можете просматривать все данные о ваших авто.</string>
+    <string name="nomad_profile_main_screen_no_driver_in_list1">У Вас еще нет водителей</string>
+    <string name="nomad_profile_main_screen_no_driver_in_list2">Добавьте водителей, чтобы вы могли получать уведомлении о штрафах и проверять действительность страхового полиса</string>
+
+    /*Профиль внутри*/
+    <string name="nomad_profile_inner_screen_top_title">Профиль</string>
+    <string name="nomad_profile_inner_screen_private">Личные данные</string>
+    <string name="nomad_profile_inner_screen_app">Приложение</string>
+    <string name="nomad_profile_inner_screen_iin_null">Нет данных о ИИН. Завершите регистрацию</string>
+    <string name="nomad_profile_inner_screen_iin_favourites">Избранные</string>
+    <string name="nomad_profile_inner_screen_iin_basket">Корзина</string>
+    <string name="nomad_profile_inner_screen_iin_bonus">Бонусы</string>
+    <string name="nomad_profile_inner_screen_personal_data_title">Личные данные</string>
+    <string name="nomad_profile_inner_screen_bank_cards">Банковские карты</string>
+    <string name="nomad_profile_inner_screen_payments">Платежи</string>
+    <string name="nomad_profile_inner_screen_docs">Документы</string>
+    <string name="nomad_profile_inner_screen_addresses">Адреса</string>
+    <string name="nomad_profile_inner_screen_app_title">Приложение</string>
+    <string name="nomad_profile_inner_screen_app_about">О приложении</string>
+    <string name="nomad_profile_inner_screen_app_contact">Связаться с нами</string>
+    <string name="nomad_profile_inner_screen_app_set_score">Оценить приложение</string>
+    <string name="nomad_profile_inner_screen_app_set_complaint">Оставить жалобу</string>
+    <string name="nomad_profile_inner_screen_app_set_exit">Выйти</string>
+    /*Оставить жалобу*/
+    <string name="nomad_profile_inner_screen_bottom_leave_complaint_title">Оставить жалобу</string>
+    <string name="nomad_profile_inner_screen_bottom_leave_complaint_bars_title">Какой сервис вам не понравился?</string>
+    <string name="nomad_profile_inner_screen_bottom_leave_complaint_edit_field_text">Мы стремимся к улучшению приложения, расскажите нам что вам не понравилась</string>
+    <string name="nomad_profile_inner_screen_bottom_leave_complaint_edit_field_text1">Введите</string>
+    <string name="nomad_profile_inner_screen_bottom_leave_complaint_error_text">Пожалуйста, введите текст жалобы</string>
+    <string name="nomad_profile_inner_screen_bottom_leave_complaint_snackbar_message">Ваше обращение отправлено</string>
+    <string name="nomad_profile_inner_screen_bottom_leave_complaint_button">Отправить</string>
+
+
+    /*Профиль редактирование*/
+    <string name="nomad_profile_edit_screen_change_tel_title">Номер телефона</string>
+    <string name="nomad_profile_edit_screen_change_tel_title_error">Введите номер полностью</string>
+    <string name="nomad_profile_edit_screen_change_tel_info">Для редактирования номера телефона потребуется СМС подтверждение</string>
+    <string name="nomad_profile_edit_screen_change_mail_title">Почта</string>
+    <string name="nomad_profile_edit_screen_change_mail_error">Введите корректный e-mail</string>
+    <string name="nomad_profile_edit_screen_change_iin_title">ИИН</string>
+    <string name="nomad_profile_edit_screen_change_iin_error">ИИН не прошёл проверку, проверьте правильность ввода</string>
+    <string name="nomad_profile_edit_screen_change_iin_info">С помощью ИИН Ваши данные заполняются  автоматически. К тому же, Вы получаете автоматический процесс проверки штрафов и действительности страхового полиса.</string>
+    <string name="nomad_profile_edit_screen_change_surname_title">Фамилия</string>
+    <string name="nomad_profile_edit_screen_change_surname_error">Поле "Фамилия" не должна быть пуcтой</string>
+    <string name="nomad_profile_edit_screen_change_name_title">Имя</string>
+    <string name="nomad_profile_edit_screen_change_name_error">Поле Имя не должно быть пустым</string>
+    <string name="nomad_profile_edit_screen_change_birth_title">Дата рождения</string>
+    <string name="nomad_profile_edit_screen_change_birth_error">Введите корректную дату рождения</string>
+    <string name="nomad_profile_edit_screen_change_sex_title">Пол</string>
+    <string name="nomad_profile_edit_screen_save_button">Сохранить</string>
+
+    /*Профиль Банковские карты*/
+    <string name="nomad_profile_bank_cards_screen_title">Банковские карты</string>
+    /*Профиль Платежи*/
+    <string name="nomad_profile_purchases_screen_title">Платежи</string>
+    <string name="nomad_profile_purchases_screen_filtered">Включён фильтр платежей:</string>
+
+
+    /*Штрафы*/
+    <string name="nomad_fine_ticket_screen_title">Проверка штрафов</string>
+    <string name="nomad_fine_ticket_screen_no_fines_title">Так держать, у вас нет штрафов!</string>
+    <string name="nomad_fine_ticket_screen_have_fines_title">У вас есть штраф</string>
+    <string name="nomad_fine_ticket_screen_no_fines_text">По данному ИИН штрафов не обнаружено:</string>
+    <string name="nomad_fine_ticket_screen_something_wrong_title">Что то пошло не так</string>
+    <string name="nomad_fine_ticket_screen_something_wrong_text">Попробуйте повторить чуть позже, или свяжитесь с технической поддержкой.</string>
+    <string name="nomad_fine_ticket_pay_screen_title">Штраф</string>
+    <string name="nomad_fine_ticket_pay_screen_ticket_text1">Нарушитель</string>
+    <string name="nomad_fine_ticket_pay_screen_ticket_text2">Нарушение</string>
+    <string name="nomad_fine_ticket_pay_screen_ticket_text3">Дата</string>
+    <string name="nomad_fine_ticket_pay_screen_ticket_text4">К оплате</string>
+    <string name="nomad_fine_ticket_pay_screen_bonus_button">Потратить бонусы</string>
+    <string name="nomad_fine_ticket_pay_screen_bonus_button_sum">Накоплено %1$s ฿</string>
+    <string name="nomad_fine_ticket_pay_screen_payment_title">Будет списано:</string>
+    <string name="nomad_fine_ticket_pay_screen_payment_text1">c карты</string>
+    <string name="nomad_fine_ticket_pay_screen_payment_text2">бонусов</string>
+    <string name="nomad_fine_ticket_pay_screen_payment_text3">Комиссия %1$s</string>
+    <string name="nomad_fine_ticket_pay_screen_pay_button_text">К оплате %1%s</string>
+    <string name="nomad_fine_ticket_pay_screen_pay_info">Оплата Штрафа: %1$s</string>
+    <string name="nomad_fine_ticket_pay_screen_already_paid_text">Возможно штраф уже оплачен, нажмите назад</string>
+
+    /*Фильтр выбора платежей в профиле*/
+    <string name="nomad_profile_purchases_screen_bottom_sheet_title">Фильтр</string>
+    <string name="nomad_profile_purchases_screen_bottom_sheet_text1">Продукт</string>
+    <string name="nomad_profile_purchases_screen_bottom_sheet_text2">Период от</string>
+    <string name="nomad_profile_purchases_screen_bottom_sheet_text3">Период до</string>
+    <string name="nomad_profile_purchases_screen_bottom_sheet_button">Фильтровать</string>
+    <string name="nomad_profile_purchases_screen_bottom_sheet_date_error_from">Дата \"от\" не должна быть позже: %1$s</string>
+    <string name="nomad_profile_purchases_screen_bottom_sheet_date_error_to">Дата \"до\" не должна быть раньше даты: %1$s</string>
+    <string name="nomad_profile_purchases_screen_bottom_sheet_pick_type_title">Выберите нужные типы платежей</string>
+
+    /*Driver Screen*/
+    <string name="nomad_driver_screen_title">Водитель</string>
+    <string name="nomad_driver_screen_iin_error">" Нет номера.\nНажмите, чтобы ввести!"</string>
+    <string name="nomad_driver_screen_iin_dialog_title">ИИН:</string>
+    <string name="nomad_driver_screen_iin_dialog_text">Ввод номера ИИН позволят проверять наличие штрафов и страховок.\nА также производить их оплату/покупку</string>
+    <string name="nomad_driver_screen_iin_bottom_sheet_title">Введите ИИН</string>
+    <string name="nomad_driver_screen_iin_bottom_sheet_button">Сохранить</string>
+    <string name="nomad_driver_screen_add_insurance_title">Проверить страховку</string>
+    <string name="nomad_driver_screen_add_insurance_button">Далее</string>
+    <string name="nomad_driver_screen_add_insurance_error">Для добавления страховки требуется номер ИИН. </string>
+    <string name="nomad_driver_screen_auto_block_title">Автомобили</string>
+    <string name="nomad_driver_screen_auto_delete_dialog_title">Открепить Авто</string>
+    <string name="nomad_driver_screen_auto_delete_dialog_text">Вы уверены, что хотите удалить данное у этого водителя?</string>
+    <string name="nomad_driver_screen_auto_add_button_title">Добавить авто</string>
+    <string name="nomad_driver_screen_bottom_sheet_new_auto_add_button_title">Добавить новое авто</string>
+    <string name="nomad_driver_screen_bottom_sheet_save_button_title">Добавить</string>
+    <string name="nomad_driver_screen_settings_block_title">Опции</string>
+    <string name="nomad_driver_screen_settings_block_profile_set_title">Это Я</string>
+    <string name="nomad_driver_screen_settings_block_delete_driver_title">Удалить водителя</string>
+    <string name="nomad_driver_screen_settings_block_delete_driver_dialog_title">Удаление Водителя</string>
+    <string name="nomad_driver_screen_settings_block_delete_driver_dialog_text">Вы точно хотите удалить данного водителя?</string>
+
+    /*Home screen*/
+    <string name="nomad_home_screen_fines_text">Проверить</string>
+    <string name="nomad_home_screen_fines_text2">Завершилась</string>
+    <string name="nomad_home_screen_fines_text3">До %1$s</string>
+    <string name="nomad_home_screen_widgets_title">Виджеты</string>
+    <string name="nomad_home_screen_bottom_insurance_new_check_button">Новая проверка страховки</string>
+    <string name="nomad_home_screen_bottom_insurance_new_check_title">Проверить наличие страхового полиса</string>
+    <string name="nomad_home_screen_bottom_insurance_enter_iin_title">Проверить страховку</string>
+    <string name="nomad_home_screen_bottom_insurance_enter_iin_title_fines">Проверить штрафы</string>
+    <string name="nomad_home_screen_bottom_insurance_enter_iin_button_title">Добавить</string>
+    <string name="nomad_home_screen_bottom_insurance_error">Не удалось проверить. Попробуйте позже или обратитесь в техподержку</string>
+    <string name="nomad_home_screen_bottom_fines_title">Проверка штрафов</string>
+    <string name="nomad_home_screen_bottom_fines_button_title">Новая проверка штрафов</string>
+    <string name="nomad_home_screen_bottom_fines_no_insuranee_block_title">У вас еще нет добавленных страховок</string>
+    <string name="nomad_home_screen_bottom_fines_no_insuranse_block">Сделайте новую проверку страховки, сможете отслеживать её статус в этом списке</string>
+    <string name="nomad_home_screen_bottom_fines_no_drivers_block_title">У Вас еще нет водителей в \"Профиле\"</string>
+    <string name="nomad_home_screen_bottom_fines_no_drivers_block">Добавьте водителей в разделе \"Профиль\", чтобы автоматически получать информацию о штрафах.</string>
+
+    /*App about*/
+    <string name="nomad_about_app_screen_title">О приложении</string>
+    <string name="nomad_about_app_screen_version_text">Версия %1$s</string>
+    <string name="nomad_about_app_screen_version_date">от %1$s</string>
+    <string name="nomad_about_app_screen_license_title">Лицензионное соглашение</string>
+    <string name="nomad_about_app_screen_license_text">Текст лицензионного соглашения</string>
+    <string name="nomad_about_app_screen_dev_text">© ТОО Автосервис Плюс</string>
+    <string name="nomad_about_app_screen_close_button">Закрыть</string>
+
+    /*ContactUsScreen*/
+    <string name="nomad_contact_us_screen_title">Поддержка</string>
+    <string name="nomad_contact_us_screen_faq_title">Вопросы и ответы</string>
+    <string name="nomad_contact_us_screen_send_text1">Возникли вопросы или есть предложение?</string>
+    <string name="nomad_contact_us_screen_send_text2">Свяжитесь с нами по Whatsapp, Telegram</string>
+    <string name="nomad_contact_us_screen_send_btn_text1">Написать на WhatsApp</string>
+    <string name="nomad_contact_us_screen_send_btn_text2">Написать в Telegram</string>
+
+    /*Страховка*/
+    <string name="nomad_insurance_main_screen_title">Страховые полисы</string>
+    <string name="nomad_insurance_main_screen_help_on_road_descr">Помощь на дороге</string>
+    <string name="nomad_insurance_main_screen_icon_descr">Тип страховки</string>
+    <string name="nomad_insurance_main_screen_ogp_title">Узнай стоимость обязательной страховки на этот год</string>
+    <string name="nomad_insurance_main_screen_ogp_descr">Самый лёгкий способ узнать официальную стоимость страховки в один клик</string>
+    <string name="nomad_insurance_main_screen_kasko_title">Страхование автомобиля КАСКО Трансформер</string>
+    <string name="nomad_insurance_main_screen_kasko_descr">Полис КАСКО Трансформер – страховая защита вашего автомобиля от любых рисков: мелкие царапины, ДТП, угон, полная гибель авто. Это программу вы можете настроить под себя – выбрать нужные риски и дополнительные опции.</string>
+    <string name="nomad_insurance_main_screen_building_title">Жилищный полис</string>
+    <string name="nomad_insurance_main_screen_building_descr">Доступное страхование Вашей квартиры от непредвиденных рисков.\nСтоимость зависит от выбранного пакета и начинается от 87 тг.</string>
+    <string name="nomad_insurance_main_screen_med_title">Медицинское страхование туристов</string>
+    <string name="nomad_insurance_main_screen_med_descr">Медицинское страхование туристов – это защита во время поездки за рубеж. Зачем нужен полис? Чтобы получить визу и обезопасить себя от непредвиденных расходов на лечение из-за несчастных случаев и заболеваний.</string>
+    <string name="nomad_insurance_kasko_transformer_title">КАСКО Трансформер</string>
+    <string name="nomad_insurance_kasko_transformer_driver_title">Водители</string>
+    <string name="nomad_insurance_kasko_transformer_driver_count">Водитель №%1$s</string>
+    <string name="nomad_insurance_kasko_transformer_driver_licence_num_title">Введите номер удостоверения</string>
+    <string name="nomad_insurance_kasko_transformer_driver_licence_date_title">Дата выдачи удостоверения</string>
+    <string name="nomad_insurance_kasko_transformer_driver_licence_from_title">Орган выдавший удостоверение</string>
+    <string name="nomad_insurance_kasko_transformer_driver_delete_dialog_title">Удалить водителя</string>
+    <string name="nomad_insurance_kasko_transformer_driver_delete_dialog_text">Вы действительно ходите удалить данного водителя из трансформера КАСКО?</string>
+    <string name="nomad_insurance_kasko_transformer_driver_delete_auto_title">Удалить авто</string>
+    <string name="nomad_insurance_kasko_transformer_driver_delete_auto_text">Вы действительно ходите удалить данное авто из трансформера КАСКО?</string>
+    <string name="nomad_insurance_kasko_transformer_new_driver_title">Добавить нового водителя</string>
+    <string name="nomad_insurance_kasko_transformer_new_driver_button_title">Добавить</string>
+    <string name="nomad_insurance_kasko_transformer_auto_block_title">Автомобиль</string>
+    <string name="nomad_insurance_kasko_transformer_auto_block_price">Стоимость авто: %1$s</string>
+    <string name="nomad_insurance_kasko_transformer_add_auto_title">Добавить Авто</string>
+    <string name="nomad_insurance_kasko_transformer_add_new_auto_title">Добавить новое Авто</string>
+    <string name="nomad_insurance_kasko_transformer_add_new_auto_button_title">Добавить</string>
+    <string name="nomad_insurance_kasko_transformer_auto_date_title">Выбрать дату осмотра ТС (дата начала страховой защиты)</string>
+    <string name="nomad_insurance_kasko_transformer_risks_title">Риски</string>
+    <string name="nomad_insurance_kasko_transformer_risks_more_title">Дополнительно</string>
+    <string name="nomad_insurance_kasko_transformer_send_button_text">Отправить заявку</string>
+
+    <string name="nomad_my_insurances_screen_title">Мои страховки</string>
+
+    /*Нижнее меню, главная*/
+    <string name="nomad_main_page_screens_bottom_chat">Чат</string>
+    <string name="nomad_main_page_screens_bottom_main">Главная</string>
+    <string name="nomad_main_page_screens_bottom_profile">Профиль</string>
+
+    //гараж
+    <string name="nomad_garage_service_book_add_rec_date">Выберите дату</string>
+    <string name="nomad_garage_service_book_items_text11">+ 8000 км</string>
+    <string name="nomad_garage_service_book_oil_filter_text">Масленый фильтр</string>
+    <string name="nomad_garage_service_book_cabin_filter_text">Салонный фильтр</string>
+    <string name="nomad_garage_service_book_air_filter_text">Воздушный фильтр</string>
+    <string name="nomad_garage_service_book_fuel_filter_text">Топливный фильтр</string>
+
+    //Аутентификация
+    <string name="nomad_entered_otp_was_send">Код отправлен на указанный номер</string>
+
+
+    //История авто
+    <string name="nomad_auto_history_main_page_screens">Главная</string>
+    <string name="nomad_auto_history_service_page_screens">О сервисе</string>
+    <string name="nomad_auto_history_exit_page_screens">Выйти</string>
+
+    //Страховки
+    <string name="nomad_insurance_main_page_screens">Главная</string>
+    <string name="nomad_insurance_my_insurances">Мои страховки</string>
+    <string name="nomad_insurance_exit_page_screens">Выйти</string>
+    <string name="nomad_insurance_main_screen_button_title">Рассчитать страховку</string>
+
+    //AddInn
+    <string name="nomad_add_inn_resident_text">Резидент РК</string>
+    <string name="nomad_add_inn_non_resident_text">Нерезидент РК</string>
+
+    //NonResident
+    <string name="nomad_non_resident_surname_title">Фамилия</string>
+    <string name="nomad_non_resident_name_title">Имя</string>
+    <string name="nomad_non_resident_middle_name_title">Отчество</string>
+    <string name="nomad_non_resident_birthday_title">Дата рождения</string>
+
+
+    //CheckAddBottomField
+    <string name="checkAddBottomField_newFormat">Новый формат</string>
+    <string name="checkAddBottomField_oldFormat">Старый формат</string>
+    <string name="checkAddBottomField_diffFormat">Другой формат</string>
+    <string name="nomad_check_add_bottom_field_add_by_reg">Добавить по Гос номеру</string>
+    <string name="nomad_check_add_bottom_field_add_by_vin">Добавить по VIN коду</string>
+    <string name="nomad_check_add_bottom_field_reg_text">Госномер авто</string>
+    <string name="nomad_check_add_bottom_field_vin_text">VIN код авто</string>
+    <string name="nomad_check_add_bottom_field_error">Введите номер полностью</string>
+
+    <string name="brandTitle">Марка</string>
+    <string name="modelTitle">Модель</string>
+    <string name="yearTitle">Год</string>
+
+
+    <string name="bodyVehicleTitle">Кузов</string>
+    <string name="vinCodeTitle">Vin code</string>
+    <string name="licensePlateTitle">Гос номер</string>
+
+    <string name="year_title">Год</string>
+    <string name="month_title">Месяц</string>
+    <string name="choose_date_title">Выберите дату</string>
+
+    //ошибки
+    <string name="colorTitle">Цвет</string>
+    <string name="engineTitle">Двигатель</string>
+    <string name="transmissionTitle">КПП</string>
+    <string name="driveTitle">Привод</string>
+    <string name="steeringWheelTitle">Руль</string>
+
+    //платежи
+    <string name="nomad_payments_report_payment_name">История авто</string>
+    <string name="nomad_payments_report_payment_description">Покупка истории авто</string>
+
+    /*Input Validation Error*/
+    <string name="nomad_input_validation_error_letter">Нужно вводить букву в латинице</string>
+    <string name="nomad_input_validation_error_number">Нужно вводить цифру</string>
+    <string name="nomad_input_validation_error_mix">Нужно вводить букву в латинице или цифру</string>
+    <string name="nomad_input_validation_error_fine">Менять не нужно</string>
+
+    <string name="nomad_add_auto_screen_auto_not_found_error">Авто с данным номером не обнаружено</string>
+
+    //Штрафы
+    <string name="FINE_TYPE_1000">Нарушение ПДД и адм штрафы</string>
+    <string name="FINE_SUBTYPE_1000_1">    "Превышение водителями транспортных средств установленной скорости движения транспортного средства на величину от 10 до 20 километров в час</string>
+    <string name="FINE_SUBTYPE_1000_2">    "Эксплуатация физическими лицами автомототранспортных и других передвижных средств и установок, у которых содержание загрязняющих веществ в выбросах, а также уровень шума, производимого ими при работе, превышают установленные нормативы</string>
+    <string name="FINE_SUBTYPE_1000_3">    "Невыполнение требования Правил дорожного движения уступить дорогу ТС, пользующемуся преимущественным правом проезда перекрёстков</string>
+
+
+    <string name="FINE_TYPE_1001">Судебные штрафы</string>
+    <string name="FINE_TYPE_1001_1">Судебные штрафы и чего-то там</string>
+
+    <string name="FINE_TYPE_1002">Налоги</string>
+    <string name="FINE_TYPE_1002_1">Подробности штрафа за налог</string>
+
+    <string name="FINE_TYPE_1003">Каско</string>
+    <string name="FINE_TYPE_1003_1">Покупка страховки Каско</string>
+
+    <string name="nomad_profile_edit_screen_change_birth_blank">Введите дату рождения</string>
+
+    <string name="nomad_profile_purchases_screen_bottom_sheet_all">Все</string>
+    <string name="nomad_profile_purchases_screen_bottom_sheet_some">Выборочно</string>
+    <string name="nomad_profile_purchases_screen_bottom_sheet_error">Выберите как минимум один тип</string>
+
+    <string name="nomad_crop_image_activity_crop_button">Выбрать</string>
+
+    /*Каско трансформер*/
+    <string name="nomad_insurance_kasko_transformer_add_driver_error">Необходимо добавить хотя бы одного водителя</string>
+    <string name="nomad_insurance_kasko_transformer_add_auto_error">Необходимо добавить авто</string>
+    <string name="nomad_insurance_kasko_transformer_driver_title_error">Ошибка:</string>
+    <string name="nomad_insurance_kasko_transformer_date_start_error">Ошибка: дата начала страховой защиты</string>
+    <string name="nomad_insurance_transformer_risk_error">Должен быть выбран, как минимум, один риск из списка:</string>
+    <string name="nomad_insurance_transformer_risk_data_error">Вы должны подтвердить согласие на обработку персональных данных</string>
+
+
+    /*Типы покупок*/
+    <string name="PurchaseItemTypeList_history">История авто</string>
+    <string name="PurchaseItemTypeList_ogpo">ОГПО</string>
+    <string name="PurchaseItemTypeList_kasko">Каско</string>
+    <string name="PurchaseItemTypeList_parking">Парковка</string>
+    <string name="PurchaseItemTypeList_fine">Штраф</string>
+
+    <string-array name="nomad_garage_change_auto_name_helper_array">
+        <item>Машина отца</item>
+        <item>Машина мамы</item>
+        <item>Машина мужа</item>
+        <item>Машина жены</item>
+        <item>Машина дочки</item>
+        <item>Машина сына</item>
+        <item>Машина внука</item>
+        <item>Машина внучки</item>
+    </string-array>
+
+    <string-array name="nomad_complaint_category_list">
+        <item>История авто</item>
+        <item>Страховка</item>
+        <item>Штрафы</item>
+        <item>Мастера</item>
+        <item>Парковка</item>
+        <item>Техосмотр</item>
+        <item>Купи авто</item>
+        <item>Другое</item>
+    </string-array>
+
+    <string-array name="yearTitleList">
+        <item>2000</item>
+        <item>2001</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2006</item>
+        <item>2007</item>
+        <item>2008</item>
+        <item>2009</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+    </string-array>
+
+    <string-array name="monthList">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+
+    <string-array name="colorTitleDropdownList">
+        <item>Январь</item>
+        <item>Красный</item>
+        <item>Черный</item>
+        <item>Золотой</item>
+        <item>Металлик</item>
+    </string-array>
+
+    <string-array name="transmissionTitleDropdownList">
+        <item>Механическая</item>
+        <item>Автомат</item>
+    </string-array>
+
+    <string-array name="driveTitleDropdownList">
+        <item>Передний</item>
+        <item>Задний</item>
+        <item>4х4</item>
+        <item>Гибрид</item>
+    </string-array>
+
+    <string-array name="steeringWheelDropdownList">
+        <item>Справа</item>
+        <item>Слева</item>
+    </string-array>
+
+    <string-array name="profileMainScreenListOfButtons">
+        <item>Автомобили</item>
+        <item>Водители</item>
+    </string-array>
+
+    <string-array name="PurchaseItemTypeList">
+        <item>"История авто"</item>
+        <item>"ОГПО"</item>
+        <item>"Каско"</item>
+        <item>"Парковка"</item>
+        <item>"Штраф"</item>
+    </string-array>
+
+    <string-array name="autoHistoryFAQ_key">
+        <item>Почему мой номер не выходит?</item>
+        <item>Откуда взять промокод?</item>
+        <item>Как проверить свое авто </item>
+        <item>Почему такая цена?</item>
+        <item>Почему не показывает фото машин и данные о владельцах?</item>
+        <item>Есть пример отчета?</item>
+    </string-array>
+
+    <string-array name="autoHistoryFAQ_value">
+        <item>Первая возможная причина: проверьте пожалуйста правильность ввода вашего номера. Напишите номер в формате 000AAA00 либо в старом формате 0AAA000\n\nВторая возможная причина: гос база из которого мы достаем данные пока не обновились и ваших данных временно там нет, просим подождать. Это может занять от недели до пару месяцев (это не наша база и поэтому мы не можем ускорить процесс обновления)</item>
+        <item>Ответ на вопрос</item>
+        <item>Ответ на вопрос</item>
+        <item>Ответ на вопрос</item>
+        <item>Ответ на вопрос</item>
+        <item>Ответ на вопрос</item>
+    </string-array>
+
+    <string-array name="contactUsFaq_key">
+        <item>Как оставить заявку?</item>
+        <item>Как подобрать специалиста?</item>
+    </string-array>
+
+    <string-array name="contactUsFaq_value">
+        <item>Вы можете создать заявку на главной странице или в Ваших заявках.\nПерейдите на одну из вышеперечисленных страниц и выберите \"Создать заявку\".\nВы можете облегчить создание заявки добавив ваш авто в \"Гараж\" в личном кабинете.</item>
+        <item>Ответ на вопрос</item>
+    </string-array>
+
+    /*Rate app*/
+    <string name="nomad_rate_app_dialog_title">Вам нравится наше приложение</string>
+    <string name="nomad_rate_app_dialog_text">Нажмите на звездочку чтобы оценить наше приложение в App Store</string>
+    <string name="nomad_rate_app_dialog_cancel_button">Отменить</string>
+    <string name="nomad_rate_app_dialog_rate_button">Оценить</string>
+
+    /*Inner Bonus*/
+    <string name="nomad_profile_bonus_main_title">Бонусы</string>
+    <string name="nomad_profile_bonus_main_referal_block_title_true">Получить больше бонуса</string>
+    <string name="nomad_profile_bonus_main_referal_block_title_false">У вас пока нет бонусов</string>
+    <string name="nomad_profile_bonus_main_referal_block_button">Пригласить друзей</string>
+    <string name="nomad_profile_bonus_main_referal_block_text">Хотите получить скидку на следующий заказ? Если ваш друг сделает первый заказ, вы получите бонусы</string>
+    <string name="nomad_profile_bonus_main_current_list_title">Действующие бонусы</string>
+    <string name="nomad_profile_bonus_main_expired_list_title">Просроченные бонусы</string>
+    <string name="nomad_profile_bonus_main_used_list_title">Использованные бонусы</string>
+    <string name="nomad_profile_bonus_main_bottom_sheet_title">Пригласить друзей</string>
+    <string name="nomad_profile_bonus_main_bottom_sheet_text">Приглашайте друзей и получайте скидки</string>
+    <string name="nomad_profile_bonus_main_bottom_sheet_text2">Делитесь своим кодом</string>
+    <string name="nomad_profile_bonus_main_bottom_sheet_text3">Ваши друзья получат %1$s бонусов, если используют ваш код.</string>
+    <string name="nomad_profile_bonus_main_bottom_sheet_text4">Получайте бонусы</string>
+    <string name="nomad_profile_bonus_main_bottom_sheet_text5">Вы получите %1$s в бонусах после того, как ваш друг сделает первый заказ.</string>
+    <string name="nomad_profile_bonus_main_bottom_sheet_share_button">Поделиться кодом</string>
+    <string name="nomad_profile_bonus_main_bottom_sheet_conditions_button">Условия</string>
+    <string name="nomad_profile_bonus_main_bottom_sheet_back_button">Назад</string>
+    <string name="nomad_profile_bonus_main_bottom_sheet_snakbar_copy">Код скопирован</string>
+
+    <string name="nomad_profile_bonus_main_bonus_type_percent">% скидка</string>
+    <string name="nomad_profile_bonus_main_bonus_type_flat"> %1$s</string>
+
+
+
+
+    <string name="nomad_profile_bonus_used_for_history">На сервис История авто</string>
+    <string name="nomad_profile_bonus_used_for_insurance">На сервис Страховка</string>
+    <string name="nomad_profile_bonus_used_for_fines">На сервис Штрафы</string>
+    <string name="nomad_profile_bonus_used_for_check_up">На сервис Техосмотр</string>
+    <string name="nomad_profile_bonus_used_for_parking">На сервис Парковка</string>
+    <string name="nomad_profile_bonus_expiration_none">Без срока</string>
+
+    /*crash*/
+    <string name="crash_title">Упс</string>
+    <string name="crash_description">Что то пошло не так, попробуйте повторить действие позже</string>
+    <string name="crash_clear">Понятно</string>
+
+    /*auth titles*/
+    <string name="nomad_auth_titles_recovery_password">Восстановить пароль</string>
+    <string name="nomad_auth_titles_change_password">Сменить пароль</string>
+    <string name="nomad_auth_titles_change_registration">Зарегистрироваться</string>
+    <string name="nomad_auth_titles_change_phone_current">Сменить номер</string>
+    <string name="nomad_auth_titles_change_phone_new_nubmber">Введите новый номер</string>
+
+    /**/
+    <string name="nomad_main_anonymous_tile">Аноним</string>
+
+    <string name="nomad_resset_password_success">Пароль успешно изменён</string>
+
+    /*Buildings Insurance Transformer*/
+    <string name="nomad_building_transformer_doc_type_pasport">Паспорт</string>
+    <string name="nomad_building_transformer_doc_type_driver_license">Водительское удостоверение</string>
+    <string name="nomad_insurance_building_transformerr_title">Жилищный полис</string>
+    <string name="nomad_insurance_building_transformer_holder_title">Страхователь</string>
+    <string name="nomad_insurance_building_transformer_change_holder_dialog_title">Сменить страхователя?</string>
+    <string name="nomad_insurance_building_transformer_change_holder_dialog_text">Вы хотите сменить страхователя?</string>
+    <string name="nomad_insurance_building_transformer_new_name">Ввести Имя самостоятельно</string>
+    <string name="nomad_insurance_building_transformer_new_name_title">Укажите</string>
+    <string name="nomad_insurance_building_transformer_new_name_name_title">Имя</string>
+    <string name="nomad_insurance_building_transformer_new_name_surname_title">Фамилия</string>
+    <string name="nomad_insurance_building_transformer_new_name_error">Проверьте, что Фамилия и Имя внесены</string>
+    <string name="nomad_insurance_building_transformer_new_name_button_title">Добавить</string>
+    <string name="nomad_insurance_building_transformer_license_number">Введите номер удостоверения</string>
+    <string name="nomad_insurance_building_transformer_license_date">Дата выдачи удостоверения</string>
+    <string name="nomad_insurance_building_transformer_license_from">Орган выдавший удостоверение</string>
+    <string name="nomad_insurance_building_transformer_registration_address">Адрес регистрации</string>
+    <string name="nomad_insurance_building_transformer_registration_address_placeholder">Введите ваш адрес</string>
+    <string name="nomad_insurance_building_transformer_registration_city">Город объекта</string>
+    <string name="nomad_insurance_building_transformer_registration_city_placeholder">Выберите город</string>
+    <string name="nomad_insurance_building_transformer_registration_street">Улица объекта</string>
+    <string name="nomad_insurance_building_transformer_registration_street_placeholder">Введите улицу</string>
+    <string name="nomad_insurance_building_transformer_registration_house">Улица объекта</string>
+    <string name="nomad_insurance_building_transformer_registration_house_placeholder">Введите дом</string>
+    <string name="nomad_insurance_building_transformer_registration_flat">Квартира объекта</string>
+    <string name="nomad_insurance_building_transformer_registration_flat_placeholder">Введите номер квартиры</string>
+    <string name="nomad_insurance_building_transformer_object_title">Объект страхования</string>
+    <string name="nomad_insurance_building_transformer_no_name_error">Выберите имя страхователя:</string>
+    <string name="nomad_insurance_building_transformer_no_date_error">Выберите дату выдачи удостоверения:</string>
+    <string name="nomad_insurance_building_transformer_no_number_error">Укажите номер удостоверения:</string>
+    <string name="nomad_insurance_building_transformer_no_from_error">Укажите кем выдано удостоверение:</string>
+    <string name="nomad_insurance_building_transformer_no_reg_address_error">Укажите адрес регистрации:</string>
+    <string name="nomad_insurance_building_transformer_no_city_error">Укажите город объекта:</string>
+    <string name="nomad_insurance_building_transformer_no_street_error">Укажите улицу объекта:</string>
+    <string name="nomad_insurance_building_transformer_no_house_error">Укажите номер дома объекта:</string>
+    <string name="nomad_insurance_building_transformer_no_flat_error">Укажите номер квартиры объекта:</string>
+
+    /*поиск адреса*/
+    <string name="choice_city">Выбрать город</string>
+    <string name="choice_region">Выбрать регион</string>
+    <string name="choice_area">Выбрать район</string>
+    <string name="choice_house_complex">Выбрать ЖК</string>
+    <string name="search_address_question">Где будем искать?</string>
+    <string name="all_regions">Все регионы</string>
+    <string name="region">Регион</string>
+    <string name="city">Город</string>
+    <string name="all_cities">Все города</string>
+    <string name="all_area">Все районы</string>
+    <string name="all_houses_complex">Все ЖК</string>
+    <string name="address_frame_title_region">Нажмите и удерживайте, чтобы выбрать регион</string>
+    <string name="address_frame_title_city">Нажмите и удерживайте, чтобы выбрать город</string>
+    <string name="address_frame_title_area">Нажмите и удерживайте, чтобы выбрать район</string>
+    <string name="address_frame_title_house_complex">Нажмите и удерживайте, чтобы выбрать ЖК</string>
+    <string name="search">Поиск</string>
+    <string name="search_address_hint">Введите город, район, ЖК</string>
+
+    /*Трансформер туризма*/
+    <string name="nomad_insurance_tourism_transformer_title">МСТ</string>
+    <string name="nomad_insurance_tourism_transformer_order_title">Заявка</string>
+    <string name="nomad_insurance_tourism_transformer_no_Iin_error">Выберите имя страхователя:</string>
+    <string name="nomad_insurance_tourism_transformer_start_date">Срок начала</string>
+    <string name="nomad_insurance_tourism_transformer_start_date_error">Выберите срок начала:</string>
+    <string name="nomad_insurance_tourism_transformer_end_date">Срок окончания</string>
+    <string name="nomad_insurance_tourism_transformer_end_date_error">Выберите срок окончания:</string>
+    <string name="nomad_insurance_tourism_transformer_start_date_error_calendar">Дата не должна быть позже \"Срока окончания\": %1$s</string>
+    <string name="nomad_insurance_tourism_transformer_end_date_error_calendar">Дата не должна быть раньше \"Срока начала\": %1$s</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_title">Туристы</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_add_new">Добавить туриста</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_add_new_bottom_title">Введите ИИН туриста</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_add_new_bottom_button">Добавить труиста</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_delete_title">Удалить туриста</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_delete_text">Вы точно хотите удалить этого туриста?</string>
+    <string name="nomad_insurance_tourism_transformer_tourist">Турист №%1$s</string>
+    <string name="nomad_insurance_tourism_transformer_tourists">Туристы</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_error">Должен быть добавлен минимум один турист</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_iin_title">ИИН</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_iin_title_error">Введите ИИН:</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_license_number">Номер паспорта</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_license_number_error">Введите номер паспорта</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_license_date">Дата выдачи паспорта</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_license_date_error">Выберите дату выдачи паспорта:</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_license_from">Орган выдавший удостоверение</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_license_from_error">Укажите огран выдавший удостоверение:</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_name">ФИО как в паспорте на латинице</string>
+    <string name="nomad_insurance_tourism_transformer_tourists_name_error">Укажите ФИО как в паспорте на латинице:</string>
+
+</resources>
