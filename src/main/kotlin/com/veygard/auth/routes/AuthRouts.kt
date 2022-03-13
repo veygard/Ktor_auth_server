@@ -161,7 +161,6 @@ fun Route.authRoute() {
         }
 
     }
-    authenticate("auth") {
         post("/change-password") {
             val body: ChangePasswordBody?
             try {
@@ -182,7 +181,6 @@ fun Route.authRoute() {
                 }
             }
         }
-    }
 
     post("/createUser") {
         val body: CreateUserBody?
